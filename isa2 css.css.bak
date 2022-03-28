@@ -1,0 +1,91 @@
+.body {
+	background-color: #ffffff;
+	}
+div.landingpage {
+	width: 89%;
+	background-color: #80ced7;
+	padding: 80px;
+	text-align: left;
+	color: #ffffff;
+	font-family: Century Gothic;
+	vertical-align: center;
+	height: 190px;
+	}
+div.headings {
+	text-align: center;
+	font-family: Century Gothic;
+	font-size: relative;
+	
+	font-weight: 80px;
+	color: #000000;
+	}
+.img1 {
+	position: relative;
+	height: 170%;
+	left: 1%;
+	bottom: 34%
+	}
+.landingtext {
+	float: left;
+	width: 50%;
+	position: absolute;
+	left: 40%;
+	top: 7%
+	}	
+table, tr, td { 
+	font-family: Century Gothic;
+	width: 107%;
+	padding: 25px;
+	background-color: #73bfb8;
+	font-size: 25px;
+	}
+.work1 {
+	background-color: #73bfb8;
+	padding: 5%;
+	font-size: 35px;
+	font-family: Century Gothic;
+	text-align: center;
+	} 
+.work2 {
+	background-color: #73bfb8;
+	padding: 5%;
+	font-size: 35px;
+	font-family: Century Gothic;
+	text-align: center;
+	} 
+ul.RHS {
+	list-style-type: none;
+	overflow: hidden;
+	background-color: #fec601;
+	font-family: Century Gothic;
+	font-size: 25px;
+	width: 100%;
+	}
+li { 
+	float: right;
+	}
+li a {
+	display: inline-block;
+	color: white;
+	text-align: center;
+	padding: 14px 1px;
+	text-decoration: none;
+	}
+li a:hover { 
+	background-color: #73bfb8;
+	}
+.active {
+	background-color: #blue;
+	}
+div.about {
+	font-size: 10px;
+	font-family: Century Gothic;
+	margin: 2%;
+	color: #000000;
+	}
+div.contacts {
+	font-size: 10px;
+	font-family: Century Gothic;
+	margin: 2%;
+	color: #000000;
+	}
